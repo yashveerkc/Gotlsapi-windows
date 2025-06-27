@@ -21,7 +21,7 @@ Gotlsapi is a powerful standalone **EXE-based reverse proxy** built with FastAPI
 
 ## 🖥️ How to Use
 
-1. **Download** the EXE from the [Releases](#) section.
+1. **Download** the EXE from the [Releases](https://github.com/yashveerkc/Gotlsapi-windows/releases/tag/v1.0.0) section.
    ![screenshot](![image](https://github.com/user-attachments/assets/44fef1eb-00b6-4515-8e6e-274962eb936a)
 2. **Run** the program:
 
